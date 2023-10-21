@@ -1,4 +1,6 @@
 theme: minima
 title: Test GithubPages
-author: @me
+author: 
+  name: @me
+  email: @me
 description: Just a dummy test page
