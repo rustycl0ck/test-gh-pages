@@ -1,0 +1,8 @@
+services:
+  develop:
+    build: .
+    ports:
+      - 9999:9999
+    volumes:
+      - .:/website
+    working_dir: /website
